@@ -28,3 +28,13 @@ A categorised list of useful Regex expressions.
 Regex is used a lot to extract information from large files, so having a cheat sheet on hand will help out a lot.
 
 _________________
+
+* [Vi Editor Shortcuts](https://www.redhat.com/sysadmin/introduction-vi-editor) ---
+A list of Vi editor shortcuts. Having trouble with Vi editor? This might help
+
+_________________
+
+* [What is Disaster Recovery?](https://aws.amazon.com/what-is/disaster-recovery/) ---
+An article about what Disaster Recovery is about, it's purpose, features of a good Disaster Recovery team or procedures etc. published by Amazon Web Services. Disaster Recovery is a topic I was unfamiliar with and could barely find mention about in the book. It's mostly self-explanatory, but might as well be certain in our knowledge.
+
+_________________
