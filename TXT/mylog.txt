@@ -47,3 +47,7 @@ ZCZC W06 45 L09 Assignment in General
 ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W06 60 L09 Assignment in General
+ZCZC W07 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 180 L05 Studying for quiz
+ZCZC W07 8 L05 QUIZ
+ZCZC W07 45 L09 Assignment in General
